@@ -1,0 +1,97 @@
+.d1{
+    background-color:lightgrey;
+}
+.h1{
+    padding: 10px;
+    color: lightgray;
+}
+.d2,#d1{
+    display: inline;
+}
+.l2{
+    margin-left: 75%;
+    margin-top: -10px;
+}
+#d2{
+    display: inline;
+    background-color: black;
+    padding: 8px;
+    color: white;
+    margin-left: 20px;
+}
+.d3{
+    color: white;
+}
+
+.i1{
+    height: 130px;
+    width: 165px;
+    margin-top: -10px;
+}
+
+#d1:hover{
+    color: gray;
+     cursor: pointer;
+}
+#d2:hover{
+    color: yellow;
+    cursor: pointer;
+}
+
+.inp1{
+    height: 35px;
+    margin-top: -25px;
+}
+.d5{
+    margin-top: -50px;
+}
+button{
+    padding: 7px;
+}
+
+.d6{
+   margin-top: 55px;
+    border: 2px;
+    border-style: solid;
+    display: inline-block;
+    padding-bottom: 10px;
+    margin-left: 60px;
+}
+
+.i2{
+     height: 250px;
+     width: 250px;
+}
+h4,h3{
+    text-align: center;
+    margin-top: -15px;
+}
+span{
+    background-color: yellow;
+    padding: 5px;
+}
+span:hover{
+    background-color: orange;
+    cursor: pointer;
+}
+
+.h55{
+    margin-left: 44%;
+    margin-top: -40px;
+}
+
+.d8{
+    background-color: blue;
+}
+
+.h45{
+     padding-top: 70px;
+}
+
+.d8{
+    margin-top: 150px;
+}
+
+.d7{
+    cursor: pointer;
+}
